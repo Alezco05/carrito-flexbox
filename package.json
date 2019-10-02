@@ -1,0 +1,19 @@
+{
+  "name": "carrito",
+  "version": "1.0.0",
+  "description": "Carrito de compras en Flexbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Alezco05/carrito-flexbox.git"
+  },
+  "author": "Jhon Calderón",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alezco05/carrito-flexbox/issues"
+  },
+  "homepage": "https://github.com/Alezco05/carrito-flexbox#readme"
+}
